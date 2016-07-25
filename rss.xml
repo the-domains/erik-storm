@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Erik Storm]]></title>
         <description><![CDATA[Erik Storm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/erik-storm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 10:12:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jul 2016 07:30:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/erik-storm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Erik is about to finnish his last year in junior school. He's like any other kid he assumes. That is until he incidently releases Fenris - The ancient norse wolf of destruction from his captivity in the realm of dreams.</p>]]></description>
-            <link>undefinederik-is-about-to-finnish-his-last-year-in-junior-school-he/index.html</link>
+            <description><![CDATA[<p>At first it was just a weird dream with, what Erik believed to be, a big dog.</p>]]></description>
+            <link>https://thegrid.ai/erik-storm/erik-is-about-to-finnish-his-last-year-in-junior-school-he/index.html</link>
             <guid isPermaLink="false">fda71843-3cd6-4131-9e7f-3c38dd05af0c</guid>
-            <pubDate>Sat, 16 Jul 2016 10:12:48 GMT</pubDate>
+            <pubDate>Mon, 25 Jul 2016 07:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
